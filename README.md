@@ -1,4 +1,4 @@
-# friendly-chainsaw
+# bubblegule
 ## Next Gen VPN App 
 ## You can join our discord server at [https://discord.gg/7GY6VPvuGj](https://discord.gg/7GY6VPvuGj)
 
